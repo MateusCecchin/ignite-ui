@@ -18,7 +18,7 @@ const config = {
   },
   viteFinal: (config, { configType }) => {
     if (configType == "PRODUCTION") {
-      config.base = "/goat-ui";
+      config.base = "/goat-ui/";
     }
     return config;
   },

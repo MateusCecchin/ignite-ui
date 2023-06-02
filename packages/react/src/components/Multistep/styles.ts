@@ -1,4 +1,4 @@
-import { fontSizes } from "@ignite-ui/tokens";
+import { fontSizes } from "@goat-ui/tokens";
 import { styled } from "../../styles";
 import { Text } from "../Text";
 

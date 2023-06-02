@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@goat-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -25,10 +25,10 @@
     "vite": "^4.3.5"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@goat-ui/eslint-config": "*",
+    "@goat-ui/react": "*",
+    "@goat-ui/tokens": "*",
+    "@goat-ui/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",

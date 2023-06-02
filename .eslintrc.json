@@ -1,0 +1,3 @@
+{
+  "extends": "@goat-ui/eslint-config"
+}

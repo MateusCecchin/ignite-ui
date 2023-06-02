@@ -25,6 +25,7 @@ export const Primary: StoryObj = {
 export const WithPrefix: StoryObj = {
   args: {
     prefix: 'prefix',
+    placeholder: 'your username',
   },
 }
 
